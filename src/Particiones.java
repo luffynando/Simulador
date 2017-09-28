@@ -1,3 +1,5 @@
+//Espacio para tu package simulador_memoria;
+
 public class Particiones {
     private int tam;
     private boolean ocupado;

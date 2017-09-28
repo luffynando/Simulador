@@ -1,12 +1,7 @@
-import com.sun.imageio.plugins.common.I18N;
+//Espacio para tu package simulador_memoria;
 
-import java.awt.Canvas;
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-import javax.swing.JFrame;
-import javax.swing.JOptionPane;
+import java.awt.*;
+import javax.swing.*;
 
 public class Dibujar extends Canvas{
 
