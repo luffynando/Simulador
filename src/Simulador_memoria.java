@@ -1,3 +1,5 @@
+//Espacio para tu package simulador_memoria;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -125,7 +127,6 @@ public class Simulador_memoria extends JFrame{
         menu.add(im2);
         menu.add(im3);
         menu.add(im4);
-
 
         //agregamos el menu
         frame.add(barramenu);
